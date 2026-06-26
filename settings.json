@@ -27,13 +27,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "HEY",
+        "yo",
+        "just a random message here"
       ]
     },
     "chat-log": true,
@@ -42,19 +42,19 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": false,
+    "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
-      "speed": 3000
+      "radius": 200,
+      "speed": 100
     },
     "look-around": {
       "enabled": true,
-      "interval": 5000
+      "interval": 960
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 5700
     }
   },
   "modules": {
